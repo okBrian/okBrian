@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @okBrian
-- 👀 I’m interested in gaming nad coding
+- 👀 I’m interested in gaming and coding
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on nonthing currently
 - 📫 How to reach me none currently

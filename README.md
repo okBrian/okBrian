@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @okBrian
 - 👀 I’m interested in gaming and coding
-- 🌱 I’m currently learning Godot and UE4
+- 🌱 I’m currently learning Godot, UE4, and OpenGL(GLFW, and GLAD)
 - 💞️ I’m looking to collaborate on nothing currently
 - 📫 How to reach me: brianok924@gmail.com
 
